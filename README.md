@@ -87,8 +87,8 @@ Each folder contains:
 ## ✍️ Author
 
 - **Name**: Asif Nawaz
-- **GitHub Profile**: [@asif-nawaz01](https://github.com/asif-nawaz01)
-- **LinkedIn**: [Asif Nawaz](https://www.linkedin.com/in/asif-nawaz-4741b6329)
+- **GitHub Profile**: [@asif-nawaz01](https://github.com/nawaz-01)
+- **LinkedIn**: [Asif Nawaz](https://www.linkedin.com/in/asif-nawaz0143)
 
 ---
 
