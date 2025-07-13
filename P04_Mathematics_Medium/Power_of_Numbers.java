@@ -7,7 +7,7 @@
 
 package P04_Mathematics_Medium;
 
-import java.math.*;
+// import java.math.*;
 
 public class Power_of_Numbers {
 
